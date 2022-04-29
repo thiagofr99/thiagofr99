@@ -8,7 +8,8 @@
 
 - 🔭 Atualmente estou trabalhando em aplicações web utilizando:
 
-<i class="devicon-java-plain-wordmark colored"></i> Java 8.0~11.0 (POO, testes unitários com J-Unit). 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>Java 8.0~11.0 (POO, testes unitários com J-Unit). 
 <i class="devicon-spring-plain-wordmark colored">Spring boot (JPA, Hibernate, MVC e mais).</i>
 <i class="far fa-file-chart-line">Jaspersoft estudio para criação de relatórios.</i>
           
