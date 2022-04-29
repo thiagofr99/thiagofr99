@@ -9,10 +9,10 @@
 - 🔭 Atualmente estou trabalhando em aplicações web utilizando:
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>Java 8.0~11.0 (POO, testes unitários com J-Unit). 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  Java 8.0~11.0 (POO, testes unitários com J-Unit). 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>Spring boot (JPA, Hibernate, MVC e mais).</i>
-<img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="40" height="40"/> Jaspersoft estudio para criação de relatórios
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  Spring boot (JPA, Hibernate, MVC e mais). 
+<img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft estudio para criação de relatórios
           
 
 - 🌱 Atualmente estou aprendendo ...
