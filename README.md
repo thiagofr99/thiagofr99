@@ -20,8 +20,11 @@
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-scrum-agile-flaticons-lineal-color-flat-icons-4.png" width="35" height="35"/> Metodologia Ágil SCRUM.
 
 
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> Versionamento com GitHub.
           
+          
+                    
+<!--          
 
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
@@ -30,7 +33,7 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-
+-->
 
 # Hi, my name is Thiago Furtado !
 
@@ -52,6 +55,8 @@
                     
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-scrum-agile-flaticons-lineal-color-flat-icons-4.png" width="35" height="35"/> Agile Methodology SCRUM.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> Versioning with GitHub.
+<!--
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
@@ -67,7 +72,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 thiagofr99/thiagofr99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
