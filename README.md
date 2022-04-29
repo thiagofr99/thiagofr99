@@ -14,7 +14,11 @@
 <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft studio para criação de relatórios.
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>Experiência com banco de dados MySql, PostgreSql e Microsoft Sql Server.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> Experiência com banco de dados MySql, PostgreSql e Microsoft Sql Server.
+
+
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-scrum-agile-flaticons-lineal-color-flat-icons-4.png" width="35" height="35"/> Metodologia Ágil SCRUM.
+
 
                     
           
@@ -46,7 +50,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> Experience with DB's MySql, PostgreSql and Microsoft Sql Server.
                     
-          
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-scrum-agile-flaticons-lineal-color-flat-icons-4.png" width="35" height="35"/> Agile Methodology SCRUM.
 
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
