@@ -7,9 +7,10 @@
 
 
 - 🔭 Atualmente estou trabalhando em aplicações web utilizando:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> Java 8.0~11.0 (POO, testes unitários com J-Unit)
-<i class="devicon-spring-plain-wordmark colored"></i> Spring boot (JPA, Hibernate, MVC e mais)
-<i class="far fa-file-chart-line"></i>
+
+<i class="devicon-java-plain-wordmark colored">Java 8.0~11.0 (POO, testes unitários com J-Unit).</i>
+<i class="devicon-spring-plain-wordmark colored">Spring boot (JPA, Hibernate, MVC e mais).</i>
+<i class="far fa-file-chart-line">Jaspersoft estudio para criação de relatórios.</i>
           
 
 - 🌱 Atualmente estou aprendendo ...
