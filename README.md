@@ -1,29 +1,24 @@
-## Olá, me chamo Thiago Furtado !
+### Olá, me chamo Thiago Furtado !
 >Hi, my name is Thiago Furtado !
 
 
-### Bem vindo ao meu perfil GitHub 👋
+#### Bem vindo ao meu perfil GitHub 👋
 >Welcome to my profile in GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando em aplicações web utilizando:
+##- 🔭 Atualmente estou trabalhando em aplicações web utilizando:
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  Java versões 8~11 (POO, testes unitários com J-Unit). 
-> Java Version 8~11(POO, Unit Tests with J-unit)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  Spring boot (JPA, Hibernate, MVC e mais). 
-> Spring boot (JPA, Hibernate, MVC and more).
-
-<img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft studio para criação de relatórios.
-> Jaspersoft studio for creating reports.
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-Experiência com banco de dados MySql, PostgreSql e Microsoft Sql Server.
-> Experience with DB's MySql, PostgreSql and Microsoft Sql Server.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  Java versões 8~11 (POO, testes unitários com J-Unit). > Java Version 8~11(POO, Unit Tests with J-unit)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  Spring boot (JPA, Hibernate, MVC e mais). > Spring boot (JPA, Hibernate, MVC and more).
+
+<img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft studio para criação de relatórios.> Jaspersoft studio for creating reports.
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> Experiência com banco de dados MySql, PostgreSql e Microsoft Sql Server. > Experience with DB's MySql, PostgreSql and Microsoft Sql Server.
                     
           
 
