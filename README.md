@@ -9,7 +9,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  Java versões 8~11 (POO, testes unitários com J-Unit). 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  Spring boot (JPA, Hibernate, MVC e mais). 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>  Spring boot (JPA, Hibernate, Security, MVC e mais). 
+
+<img src="https://img.icons8.com/offices/344/react.png" width="40" height="40"/>  React JS (Axios). 
 
 <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft studio para criação de relatórios.
 
@@ -46,7 +48,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> Java Version 8~11(POO, Unit Tests with J-unit)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> Spring boot (JPA, Hibernate, MVC and more).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> Spring boot (JPA, Hibernate, Security, MVC and more).
+
+<img src="https://img.icons8.com/offices/344/react.png" width="40" height="40"/>  React JS (Axios). 
 
 <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/344/external-reports-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" width="35" height="35"/>   Jaspersoft studio for creating reports.
 
